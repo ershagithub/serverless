@@ -9,6 +9,21 @@
 103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
 103.186.1.209,8443,ID,PT Cloud Hosting Indonesia
 
+45.195.76.190,29690,MY,Evoxt Enterprise
+45.195.69.98,30726,MY,Evoxt Enterprise
+166.88.35.141,443,MY,Evoxt Enterprise
+210.186.12.244,443,MY,TM Net
+123.253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
+154.90.39.188,48071,MY,LightNode_Limited
+38.60.194.202,33191,MY,Kaopu Cloud Hk Limited
+202.184.37.12,22618,MY,TIME Fibre Optic
+202.184.37.12,17792,MY,TIME Fibre Optic
+202.184.37.12,35207,MY,TIME Fibre Optic
+202.184.37.12,29261,MY,TIME Fibre Optic
+202.184.37.12,20931,MY,TIME Fibre Optic
+38.60.193.247,13300,MY,undefined
+38.60.195.203,10478,MY,undefined
+
 
 47.236.173.166,587,SG,Alibaba
 47.236.25.107,27903,SG,Alibaba
